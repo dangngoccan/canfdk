@@ -1,4 +1,4 @@
 # Todo
 - [ ] Learn to use Lyx
 - [ ] Join and use git
-- [ ] 
+- [ ] 25kCa + 14k Rau
