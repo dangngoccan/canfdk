@@ -5,4 +5,6 @@
 - [ ] Take note
 - [ ] Investigate merge tool
 - [ ] Make wiki book, just after can use LyX
+  + Using theme atlat wiki ***
 - [ ] Install Microsoft Mathematics
+
