@@ -5,3 +5,4 @@
 - [ ] Take note
 - [ ] Investigate merge tool
 - [ ] Make wiki book, just after can use LyX
+- [ ] Install Microsoft Mathematics
