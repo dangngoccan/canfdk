@@ -19,6 +19,10 @@
   + Small
   + Opensource
   + ORC support
+- [ ] CalSoftware
+  + Define object
+  + Solve 2th, 3th equation
+  + Draw plot
 - Install Agent Ransack
 
 # Git tool
@@ -46,7 +50,7 @@ Feature:
 - Online manual and installed HTML help manual.
 - Generates normal, context, and unified patches.
 
-# TortoiseGit
+## TortoiseGit
 Ok. Need to update.
-# SourceTree
+## SourceTree
 Ok. Need to update.
