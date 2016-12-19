@@ -54,3 +54,6 @@ Feature:
 Ok. Need to update.
 ## SourceTree
 Ok. Need to update.
+
+Apprenticeship-Patterns-Guidance-for-the-Aspiring-Software-Craftsman
+wowebook.com
