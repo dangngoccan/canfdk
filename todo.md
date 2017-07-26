@@ -25,6 +25,7 @@
   + Draw plot
 - Install Agent Ransack
 
+Kinh te vi mo
 # Git tool
 ## Winmerge
 
