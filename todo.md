@@ -1,5 +1,4 @@
 # Todo
-- Remove otad, limit it 
 - Install Agent Ransack [no need]
 - Finish 1000FS []
 - Buy DP 4800 [done]
