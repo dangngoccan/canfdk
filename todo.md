@@ -11,3 +11,4 @@ Apprenticeship-Patterns-Guidance-for-the-Aspiring-Software-Craftsman (wowebook.c
 
 - Create HWare description for st [ ]
 - Build a 3p printer [ ]
+- UML diagram
