@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<data>
+    <gui_describe>
+        <name>Configure Library</name>
+        <configure_name></configure_name>
+    </guidescribe>
+
+    <configure>
+        <configureName>Configured for MSP430</configureName>
+        <configuredvalue>VaribleName=configuredNewName01</configuredvalue>
+        <configuredvalue>default=12,32,24</configuredvalue>
+        <configuredvalue>class01=TRUE</configuredvalue>
+        <configuredvalue>class02=FALSE</configuredvalue>
+        <configuredvalue>class03=FALSE</configuredvalue>
+        <configuredvalue>class04=FALSE</configuredvalue>
+        <configuredvalue>class05=FALSE</configuredvalue>
+        <configuredvalue>class06=FALSE</configuredvalue>
+        <configuredvalue>class07=FALSE</configuredvalue>
+    </configure>
+    <configure>
+        <configureName>supoer</configureName>
+        <configuredvalue>VaribleName=configuredNewName01</configuredvalue>
+        <configuredvalue>default=12,32,24</configuredvalue>
+    </configure>
+</data>
